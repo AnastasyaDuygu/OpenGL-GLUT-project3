@@ -1,0 +1,40 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (hw3 redo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  hw3redo.cpp
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(99,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(100,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(100,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(113,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(114,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(114,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(123,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(123,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(142,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(142,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(158,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(158,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(302,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(302,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(305,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(305,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(309,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(309,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(310,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(310,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(311,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(311,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(327,84): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(327,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(327,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(327,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(328,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(329,84): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(329,64): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(329,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(329,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(336,52): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(541,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(551,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\hw3 redo\hw3redo.cpp(604,35): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  vec.cpp
+  Generating Code...
+  hw3 redo.vcxproj -> C:\Users\Anastasya\Desktop\work\Portfolio\CTIS164_HW3\Debug\CTIS164_HW3.exe
